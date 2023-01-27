@@ -1,1 +1,1 @@
-# heart-disease-detection-using-machine-learning
+# Comparing supervised machine learning techniques to predict heart disease based on patient data
